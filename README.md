@@ -1,7 +1,7 @@
-### Bem vindo! Me chamo Leonardo
-- 🔭 Hoje trabalho com Java front/back-end
-- 🌱 Estudo: html - css - Js
-- Contate-me no email: leonardonascimento897@gmail.com
+### Bem vindo! Me chamo Leonardo 
+- 🔭 Hoje trabalho com Java no front e back-end
+- 🌱 Estudo: PrimeFaces, Quarkus e Kotlin
+- Entre em contato pelo e-mail: leonardonascimento897@gmail.com
 
 <div>
   <a href="https://github.com/Developerheart">
