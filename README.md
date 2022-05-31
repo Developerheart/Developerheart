@@ -1,6 +1,6 @@
 ### Bem vindo! Me chamo Leonardo 
-- 🔭 Hoje trabalho com Java no front e back-end
-- 🌱 Estudo: PrimeFaces, Quarkus e Kotlin
+- 🔭 Atualmente sou desenvolvedor full-stack Java
+- 🌱 Estou me aprimorando em Kotlin, NextJS e OracleDB
 - Entre em contato pelo e-mail: leonardonascimento897@gmail.com
 
 <div>
