@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/Developerheart">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Developerheart&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https:/github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Developerheart&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Developerheart&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
